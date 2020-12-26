@@ -1,1 +1,17 @@
 site_name: radjiujitsu.com
+theme:
+  name: readthedocs
+dev_addr: 0.0.0.0:80
+nav:
+  - Home: index.md
+  - About: about.md
+  - Mount: mount.md
+  - Guard: guard.md
+  - Half Guard: half-guard.md
+  - Open Guard: open-guard.md
+  - Back: back.md
+  - Butterfly: butterfly-guard.md
+  - Half Guard: half-guard.md
+  - Knee On Belly: knee-on-belly.md
+  - North South: north-south.md
+  - Side Control: side-control.md
